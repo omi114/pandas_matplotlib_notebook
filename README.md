@@ -7,8 +7,10 @@ in csv.
 
 Visualizations:
 
-Daily expenses:
+Daily expenses
+
 ![bar graph](https://github.com/omi114/pandas_matplotlib_notebook/blob/master/images/bar_chart.png)
 
-Category-wise expenses
+Category-wise expenses:
+
 ![pie graph](https://github.com/omi114/pandas_matplotlib_notebook/blob/master/images/pie_chart.png)
